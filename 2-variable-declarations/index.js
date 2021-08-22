@@ -1,3 +1,3 @@
 "use strict";
 exports.__esModule = true;
-require("./example-15");
+require("./example-1");
