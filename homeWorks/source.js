@@ -1,7 +1,3 @@
-type Def {
-  
-}
-
 const defaults = {
   symbol: '$',
   separator: ',',
